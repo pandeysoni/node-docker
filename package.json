@@ -1,0 +1,10 @@
+{
+  "name": "docker-service",
+  "version": "1.0.0",
+  "description": "REST API backend for analytics service",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.284.1",
+    "moment": "^2.18.1"
+  }
+}
